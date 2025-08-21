@@ -1,0 +1,23 @@
+# Android Studio/IDEA
+.idea/
+*.iml
+
+# Build output
+app/build/
+build/
+
+# Local configuration
+local.properties
+.DS_Store
+
+# Gradle cache
+.gradle/
+
+# Logs and temporary files
+*.log
+captures/
+
+# Sensitive files
+*.key
+*.pem
+secrets.properties
